@@ -8,3 +8,4 @@ passlib[bcrypt]
 python-multipart
 aiosmtplib
 python-dotenv
+apscheduler
